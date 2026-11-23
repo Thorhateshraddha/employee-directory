@@ -176,4 +176,4 @@ The root `.gitignore` should exclude environment files, dependencies and build o
 
 ## 10. Author
 
-Add your name here.
+Shraddha Thorhate.
